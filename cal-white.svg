@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="289px" height="297px" viewBox="0 0 289 297" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>cal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cal">
+            <g id="Group" fill="#000000">
+                <path d="M271,29 L228,29 L228,12 C228,-3 207,-3 207,12 L207,29 L86,29 L86,12 C86,-3 64,-3 64,12 L64,29 L18,29 C8,29 0,37 0,47 L0,279 C0,289 8,297 18,297 L271,297 C281,297 289,289 289,279 L289,47 C289,37 281,29 271,29 Z M64,51 L64,69 C64,83 86,83 86,69 L86,51 L207,51 L207,69 C207,83 228,83 228,69 L228,51 L267,51 L267,95 L21,95 L21,51 L64,51 Z M21,116 L267,116 L267,275 L267,275 L21,275 L21,116 Z" id="Shape"></path>
+                <path d="M189,153 L125,205 L100,177 C92,167 77,180 85,190 L116,226 C120,230 126,231 130,227 L202,169 C212,160 200,145 189,153 Z" id="Path"></path>
+            </g>
+            <rect id="Rectangle" fill="#FFFFFF" style="mix-blend-mode: exclusion;" x="0" y="1" width="289" height="296"></rect>
+        </g>
+    </g>
+</svg>
